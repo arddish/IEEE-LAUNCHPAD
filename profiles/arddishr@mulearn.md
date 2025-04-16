@@ -12,6 +12,4 @@ I exhibit leadership by establishing a clear vision, uniting teams around common
 
 
 #### Networking:
-In addition to face-to-face leadership, I have established a professional network of more than 100 LinkedIn connections with students, industry experts, and alumni. I leverage the network to remain informed, contribute knowledge, and connect others with prospects. It demonstrates my active attitude towards building relationships and staying current with my profession.
-
-These experiences demonstrate my capacity to lead with initiative, influence through connection, and have a positive impact in professional and academic settings.
+As a first-year student in Electronics and Communications  and a part of various clubs like space club and music club , I am eager to connect with fellow students, experienced professionals, and mentors through technology events. My goal is to establish multiple networks by participating in community activities, exchanging ideas, and implementing innovative projects. By remaining active and setting a positive example, I hope to motivate others to explore, learn, and make meaningful contributions to our expanding tech community. I also have an Instagram page called Itz_hobbytime where i post my artworks.
