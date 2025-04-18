@@ -1,58 +1,46 @@
-# Full Name 
+# Arddish R
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+>Myself Arddish R from Trivandrum. I am a B.Tech Electronics and Communications Student at Mar Baselios College of Engineering and Technology here in Trivandrum. I’m a coder and want to learn more about Python and Data Science.
 
 
 ## Portfolio Highlights
 
-### My Projects
-
-| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
-|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
-
-#### Leadership and Influence:
-
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+-As a first-year student in Electronics and Communications  and a part of various clubs like space club and music club , I am eager to connect with fellow students, experienced professionals, and mentors through technology events. My goal is to establish multiple networks by participating in community activities, exchanging ideas, and implementing innovative projects. By remaining active and setting a positive example, I hope to motivate others to explore, learn, and make meaningful contributions to our expanding tech community. I also have an Instagram page called Itz_hobbytime where i post my artworks.
+
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+-I am looking for a career in field of Data Science. 
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
+Kerala is a good place to learn as an engineer, with all the facilities provided by different organization and government, anyone can get better at any technology.I belive introduction to any technology at the early stage of education can bring a lot of changes in the future for a students and kerala's Tech Ecosystem is doing a great job at it !.
 
 #### History of Open Source Contributions:
 
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
+I have not contributed to any open source project, but I wish to contribute actively inthe near future.
 
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+## Content Creation
+I run a blog where I share my journey in my lifestyle and about coding being a complete noob to reaching a point where I can understand code  with confidence and ease. It’s not entirely technical, but it’s real and I hope it helps others starting out too. Planning to expand into Machine Learning, AI.
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+Have not used any software tools yet,and i wish to create and use the software tools in the near future.
+
+#### Highly Used Software Tools:
+
+- Currently I don't use any software tools but will use some tools in the near future
 
 #### Competitive Website Profiles:
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
+- GitHub - https://github.com/arddish
+- MuLearn - arddishr@mulearn
 
 
 
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
----
